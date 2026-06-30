@@ -52,42 +52,6 @@ Lumina-AI/
 └── README.md
 ```
 
----
-
-## ⚙ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Lumina-AI.git
-```
-
-Go into the project
-
-```bash
-cd Lumina-AI
-```
-
-Install the required packages
-
-```bash
-pip install -r requirements.txt
-```
-
-Create a `.env` file
-
-```env
-GEMINI_API_KEY=YOUR_API_KEY
-```
-
-Run the application
-
-```bash
-python app.py
-```
-
----
-
 ## 📚 Study Modes
 
 ### 📘 Explain
