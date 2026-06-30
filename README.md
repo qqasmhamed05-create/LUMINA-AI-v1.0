@@ -30,30 +30,6 @@ Students can upload their notes, including scanned PDFs, ask questions in natura
 - 🧹 Clear Chat functionality
 - ⚡ Fast and lightweight design
 
----
-
-## 🖥️ Interface
-
-### Home Screen
-
-> **
-
-```
-C:\Users\Ali\Documents\Lumina AI homepage.png
-```
-
-### Chat Example
-
-> *(Add another screenshot here later.)*
-
-```
-assets/docs/screenshots/chat.png
-```
-
----
-
-## 🏗 Project Structure
-
 ```
 Lumina-AI/
 │
