@@ -1,0 +1,20 @@
+=====================================
+        Lumina AI Chat Export
+=====================================
+
+You:
+What is photosynthesis?
+
+Lumina:
+Photosynthesis is the process by which plants make food.
+
+-------------------------------------
+
+You:
+When did WW1 begin?
+
+Lumina:
+World War I began in 1914.
+
+-------------------------------------
+
