@@ -36,10 +36,10 @@ Students can upload their notes, including scanned PDFs, ask questions in natura
 
 ### Home Screen
 
-> *(Add a screenshot here later.)*
+> **
 
 ```
-assets/docs/screenshots/home.png
+C:\Users\Ali\Documents\Lumina AI homepage.png
 ```
 
 ### Chat Example
